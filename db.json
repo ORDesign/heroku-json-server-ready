@@ -51,7 +51,7 @@
         "forecastnumber" : "0",
         "isdaylight" : "0",
         "SensorContactLost" : "0",
-        "wdir" : "N",
+        "wdir" : "NNW",
         "cloudbasevalue" : "420",
         "cloudbaseunit" : "m",
         "apptemp" : "15.5",
@@ -76,5 +76,5 @@
         "L28" : "15.7",
         "L512" : "13.8",
         "L35" : "15.6"
-    }]  
+    }]
 }
